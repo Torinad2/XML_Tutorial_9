@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+   New Perspectives on XML, 3rd Edition
+   Tutorial 9
+   Tutorial Assignment
+
+   List of Green Jersey Cycling Stores
+
+   Filename:         gjc_stores.xml
+   Supporting Files: 
+-->
+
+<stores>
+   <store storeID="Store001" market="C" region="Southwest">
+      <street>85 East Landing Avenue</street>
+      <city>Albuquerque</city>
+      <state>NM</state>
+      <ZIP>87121</ZIP>
+      <phone>(505) 555-6614</phone>
+      <manager>Wanda Holden</manager>
+   </store>
+   <store storeID="Store002" market="C" region="Pacific">
+      <street>21 Mountain Drive</street>
+      <city>Beaverton</city>
+      <state>OR</state>
+      <ZIP>97005</ZIP>
+      <phone>(971) 555-2101</phone>
+      <manager>Roy Sexton</manager>
+   </store>
+   <store storeID="Store003" market="B" region="Pacific">
+      <street>1525 First Street SW</street>
+      <city>Bellevue</city>
+      <state>WA</state>
+      <ZIP>98005</ZIP>
+      <phone>(206) 555-0038</phone>
+      <manager>Gloria Figueroa</manager>
+   </store>
+   <store storeID="Store004" market="B" region="Pacific">
+      <street>71 North Umberland Way</street>
+      <city>Bend</city>
+      <state>OR</state>
+      <ZIP>97702</ZIP>
+      <phone>(458) 555-7689</phone>
+      <manager>Janice Callahan</manager>
+   </store>
+   <store storeID="Store005" market="B" region="Mountain">
+      <street>1440 Segall Avenue</street>
+      <city>Boulder</city>
+      <state>CO</state>
+      <ZIP>80301</ZIP>
+      <phone>(303) 555-4381</phone>
+      <manager>Tiffany Hurst</manager>
+   </store>
+   <store storeID="Store006" market="A" region="Mountain">
+      <street>5181 Pike Drive</street>
+      <city>Colorado Springs</city>
+      <state>CO</state>
+      <ZIP>80904</ZIP>
+      <phone>(720) 555-6122</phone>
+      <manager>Sofia Gonzales</manager>
+   </store>
+   <store storeID="Store007" market="C" region="Southwest">
+      <street>10 North Crossing Way</street>
+      <city>Corpus Christi</city>
+      <state>TX</state>
+      <ZIP>78408</ZIP>
+      <phone>(361) 555-3281</phone>
+      <manager>John Johnson</manager>
+   </store>
+   <store storeID="Store008" market="A" region="Mountain">
+      <street>1552 Pointe Street</street>
+      <city>Denver</city>
+      <state>CO</state>
+      <ZIP>80229</ZIP>
+      <phone>(303) 555-8371</phone>
+      <manager>Peter Higgins</manager>
+   </store>
+   <store storeID="Store009" market="B" region="Southwest">
+      <street>9002 Greene Street</street>
+      <city>Fort Worth</city>
+      <state>TX</state>
+      <ZIP>76110</ZIP>
+      <phone>(682) 555-1927</phone>
+      <manager>Marvin Sheridan</manager>
+   </store>
+   <store storeID="Store010" market="B" region="Midwest">
+      <street>1488 Roosevelt Lane</street>
+      <city>Madison</city>
+      <state>WI</state>
+      <ZIP>53705</ZIP>
+      <phone>(608) 555-4278</phone>
+      <manager>Thomas Green</manager>
+   </store>
+   <store storeID="Store011" market="C" region="Midwest">
+      <street>414 East Main Street</street>
+      <city>Omaha</city>
+      <state>NE</state>
+      <ZIP>68022</ZIP>
+      <phone>(402) 555-1281</phone>
+      <manager>John Johnson</manager>
+   </store>
+   <store storeID="Store012" market="A" region="Southwest">
+      <street>89190 Lee Avenue</street>
+      <city>Phoenix</city>
+      <state>AZ</state>
+      <ZIP>85010</ZIP>
+      <phone>(602) 555-7172</phone>
+      <manager>Michelle Johnston</manager>
+   </store>
+   <store storeID="Store013" market="C" region="Midwest">
+      <street>5518 Springs Drive</street>
+      <city>Dubuque</city>
+      <state>IA</state>
+      <ZIP>52004</ZIP>
+      <phone>(563) 555-1233</phone>
+      <manager>Patricia Baker</manager>
+   </store>
+   <store storeID="Store014" market="A" region="Pacific">
+      <street>7662 Faulk Street</street>
+      <city>Portland</city>
+      <state>OR</state>
+      <ZIP>97202</ZIP>
+      <phone>(503) 555-3371</phone>
+      <manager>Beverly Estes</manager>
+   </store>
+   <store storeID="Store015" market="A" region="Mountain">
+      <street>5912 Deerfield Road</street>
+      <city>Salt Lake City</city>
+      <state>UT</state>
+      <ZIP>84123</ZIP>
+      <phone>(801) 555-1128</phone>
+      <manager>Albert O' Connor</manager>
+   </store>
+   <store storeID="Store016" market="A" region="Southwest">
+      <street>672 East Topeka Lane</street>
+      <city>San Antonio</city>
+      <state>TX</state>
+      <ZIP>78211</ZIP>
+      <phone>(210) 555-5335</phone>
+      <manager>Malcolm Jessup</manager>
+   </store>
+   <store storeID="Store017" market="B" region="Pacific">
+      <street>12 Bertrand Circle</street>
+      <city>San Jose</city>
+      <state>CA</state>
+      <ZIP>95112</ZIP>
+      <phone>(408) 555-8812</phone>
+      <manager>June Snowden</manager>
+   </store>
+   <store storeID="Store018" market="A" region="Pacific">
+      <street>610 Juliet Drive</street>
+      <city>Seattle</city>
+      <state>WA</state>
+      <ZIP>98105</ZIP>
+      <phone>(206) 555-2810</phone>
+      <manager>Vicki Arevalo</manager>
+   </store>
+   <store storeID="Store019" market="B" region="Pacific">
+      <street>51 Walter Street</street>
+      <city>Spokane</city>
+      <state>WA</state>
+      <ZIP>99202</ZIP>
+      <phone>(509) 555-8891</phone>
+      <manager>Greg Ainsworth</manager>
+   </store>
+   <store storeID="Store020" market="C" region="Southwest">
+      <street>642 Arrow Cross Lane</street>
+      <city>Tempe</city>
+      <state>AZ</state>
+      <ZIP>85281</ZIP>
+      <phone>(602) 555-6701</phone>
+      <manager>Henry Peters</manager>
+   </store>
+</stores>

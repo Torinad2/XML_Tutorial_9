@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+   New Perspectives on XML, 3rd Edition
+   Tutorial 9
+   Tutorial Assignment
+
+   List of Green Jersey Cycling Products
+
+   Filename:         gjc_products.xml
+   Supporting Files: 
+-->
+
+<products>
+   <product productID="CL275M">
+      <department>Clothing</department>
+      <description>Cycling Shorts sm. (M)</description>
+      <gender>Men</gender>
+      <price>72.5</price>
+   </product>
+   <product productID="CL279W">
+      <department>Clothing</department>
+      <description>Cycling Shorts sm. (W)</description>
+      <gender>Women</gender>
+      <price>72.5</price>
+   </product>
+   <product productID="CL301M">
+      <department>Clothing</department>
+      <description>Cycling Shorts med. (M)</description>
+      <gender>Men</gender>
+      <price>72.5</price>
+   </product>
+   <product productID="CL304W">
+      <department>Clothing</department>
+      <description>Cycling Shorts med. (W)</description>
+      <gender>Women</gender>
+      <price>72.5</price>
+   </product>
+   <product productID="CL339M">
+      <department>Clothing</department>
+      <description>Cycling Shorts lg. (M)</description>
+      <gender>Men</gender>
+      <price>72.5</price>
+   </product>
+   <product productID="CL339W">
+      <department>Clothing</department>
+      <description>Cycling Shorts lg. (W)</description>
+      <gender>Women</gender>
+      <price>72.5</price>
+   </product>
+   <product productID="CL406M">
+      <department>Clothing</department>
+      <description>Cycling Jersey sm. (M)</description>
+      <gender>Men</gender>
+      <price>75.5</price>
+   </product>
+   <product productID="CL409W">
+      <department>Clothing</department>
+      <description>Cycling Jersey sm. (W)</description>
+      <gender>Women</gender>
+      <price>75.5</price>
+   </product>
+   <product productID="CL422M">
+      <department>Clothing</department>
+      <description>Cycling  Jersey med. (M)</description>
+      <gender>Men</gender>
+      <price>75.5</price>
+   </product>
+   <product productID="CL479W">
+      <department>Clothing</department>
+      <description>Cycling  Jersey med. (W)</description>
+      <gender>Women</gender>
+      <price>75.5</price>
+   </product>
+   <product productID="CL493M">
+      <department>Clothing</department>
+      <description>Cycling Jersey lg. (M)</description>
+      <gender>Men</gender>
+      <price>75.5</price>
+   </product>
+   <product productID="CL497W">
+      <department>Clothing</department>
+      <description>Cycling Jersey lg. (W)</description>
+      <gender>Women</gender>
+      <price>75.5</price>
+   </product>
+   <product productID="CL261M">
+      <department>Clothing</department>
+      <description>Cycling Tights sm. (M)</description>
+      <gender>Men</gender>
+      <price>69.95</price>
+   </product>
+   <product productID="CL262M">
+      <department>Clothing</department>
+      <description>Cycling Tights med. (M)</description>
+      <gender>Men</gender>
+      <price>69.95</price>
+   </product>
+   <product productID="CL263M">
+      <department>Clothing</department>
+      <description>Cycling Tights lg. (M)</description>
+      <gender>Men</gender>
+      <price>69.95</price>
+   </product>
+   <product productID="CL238W">
+      <department>Clothing</department>
+      <description>Cycling Tights sm. (W)</description>
+      <gender>Women</gender>
+      <price>69.95</price>
+   </product>
+   <product productID="CL239W">
+      <department>Clothing</department>
+      <description>Cycling Tights med. (W)</description>
+      <gender>Women</gender>
+      <price>69.95</price>
+   </product>
+   <product productID="CL240W">
+      <department>Clothing</department>
+      <description>Cycling Tights lg. (W)</description>
+      <gender>Women</gender>
+      <price>69.95</price>
+   </product>
+   <product productID="CL088M">
+      <department>Clothing</department>
+      <description>Rainwear Jacket sm. (M)</description>
+      <gender>Men</gender>
+      <price>49.95</price>
+   </product>
+   <product productID="CL089M">
+      <department>Clothing</department>
+      <description>Rainwear Jacket med. (M)</description>
+      <gender>Men</gender>
+      <price>49.95</price>
+   </product>
+   <product productID="CL090M">
+      <department>Clothing</department>
+      <description>Rainwear Jacket leg. (M)</description>
+      <gender>Men</gender>
+      <price>49.95</price>
+   </product>
+   <product productID="CL082W">
+      <department>Clothing</department>
+      <description>Rainwear Jacket sm. (W)</description>
+      <gender>Women</gender>
+      <price>49.95</price>
+   </product>
+   <product productID="CL083W">
+      <department>Clothing</department>
+      <description>Rainwear Jacket med. (W)</description>
+      <gender>Women</gender>
+      <price>49.95</price>
+   </product>
+   <product productID="CL084W">
+      <department>Clothing</department>
+      <description>Rainwear Jacket lg. (W)</description>
+      <gender>Women</gender>
+      <price>49.95</price>
+   </product>
+   <product productID="CL317M">
+      <department>Clothing</department>
+      <description>Cycling Socks sm. (M)</description>
+      <gender>Men</gender>
+      <price>12.95</price>
+   </product>
+   <product productID="CL321W">
+      <department>Clothing</department>
+      <description>Cycling Socks sm. (W)</description>
+      <gender>Women</gender>
+      <price>12.95</price>
+   </product>
+   <product productID="CL312M">
+      <department>Clothing</department>
+      <description>Cycling Socks med. (M)</description>
+      <gender>Men</gender>
+      <price>12.95</price>
+   </product>
+   <product productID="CL331W">
+      <department>Clothing</department>
+      <description> Cycling Socks med. (W)</description>
+      <gender>Women</gender>
+      <price>12.95</price>
+   </product>
+   <product productID="BS047M">
+      <department>Clothing</department>
+      <description>Cycling Shoes Size SX  (M)</description>
+      <gender>Men</gender>
+      <price>19.95</price>
+   </product>
+   <product productID="BS051M">
+      <department>Clothing</department>
+      <description>Cycling Shoes Size SX (W)</description>
+      <gender>Women</gender>
+      <price>19.95</price>
+   </product>
+   <product productID="BS081M">
+      <department>Clothing</department>
+      <description>Cycling Shoes Size MX (M)</description>
+      <gender>Men</gender>
+      <price>19.95</price>
+   </product>
+   <product productID="BS083W">
+      <department>Clothing</department>
+      <description>Cycling Shoes Size MX (W)</description>
+      <gender>Women</gender>
+      <price>19.95</price>
+   </product>
+   <product productID="BS094M">
+      <department>Clothing</department>
+      <description>Cycling Shoes Size LX (M)</description>
+      <gender>Men</gender>
+      <price>19.95</price>
+   </product>
+   <product productID="BS096W">
+      <department>Clothing</department>
+      <description>Cycling Shoes Size LX  (W)</description>
+      <gender>Women</gender>
+      <price>19.95</price>
+   </product>
+   <product productID="BG008M">
+      <department>Clothing</department>
+      <description>Cycling Gloves Sm. (M)</description>
+      <gender>Men</gender>
+      <price>19.95</price>
+   </product>
+   <product productID="BG011W">
+      <department>Clothing</department>
+      <description>Cycling Gloves Sm. (W)</description>
+      <gender>Women</gender>
+      <price>19.95</price>
+   </product>
+   <product productID="BG021M">
+      <department>Clothing</department>
+      <description>Cycling Gloves med. (M)</description>
+      <gender>Men</gender>
+      <price>19.95</price>
+   </product>
+   <product productID="BG025W">
+      <department>Clothing</department>
+      <description>Cycling Gloves med. (W)</description>
+      <gender>Women</gender>
+      <price>19.95</price>
+   </product>
+   <product productID="BG038M">
+      <department>Clothing</department>
+      <description>Cycling Gloves lg. (M)</description>
+      <gender>Men</gender>
+      <price>19.95</price>
+   </product>
+   <product productID="BG040W">
+      <department>Clothing</department>
+      <description>Cycling Gloves lg. (W)</description>
+      <gender>Women</gender>
+      <price>19.95</price>
+   </product>
+   <product productID="BH059U">
+      <department>Gear</department>
+      <description>Standard Helmet sm.</description>
+      <gender/>
+      <price>34.95</price>
+   </product>
+   <product productID="BH060U">
+      <department>Gear</department>
+      <description>Standard Helmet med.</description>
+      <gender/>
+      <price>34.95</price>
+   </product>
+   <product productID="BH061U">
+      <department>Gear</department>
+      <description>Standard Helmet lg.</description>
+      <gender/>
+      <price>34.95</price>
+   </product>
+   <product productID="BH062U">
+      <department>Gear</department>
+      <description>Standard Helmet XL</description>
+      <gender/>
+      <price>34.95</price>
+   </product>
+   <product productID="BH063U">
+      <department>Gear</department>
+      <description>Standard Helmet XXL</description>
+      <gender/>
+      <price>34.95</price>
+   </product>
+   <product productID="BG052U">
+      <department>Gear</department>
+      <description>Ultra-Safe C-Helmet sm.</description>
+      <gender/>
+      <price>34.95</price>
+   </product>
+   <product productID="BG053U">
+      <department>Gear</department>
+      <description>Ultra-Safe C-Helmet med.</description>
+      <gender/>
+      <price>34.95</price>
+   </product>
+   <product productID="BG054U">
+      <department>Gear</department>
+      <description>Ultra-Safe C-Helmet lg.</description>
+      <gender/>
+      <price>34.95</price>
+   </product>
+   <product productID="BG055U">
+      <department>Gear</department>
+      <description>Ultra-Safe C-Helmet lg.</description>
+      <gender/>
+      <price>34.95</price>
+   </product>
+   <product productID="BG056U">
+      <department>Gear</department>
+      <description>Ultra-Safe C-Helmet XL</description>
+      <gender/>
+      <price>34.95</price>
+   </product>
+   <product productID="BG057U">
+      <department>Gear</department>
+      <description>Ultra-Safe C-Helmet XXL</description>
+      <gender/>
+      <price>34.95</price>
+   </product>
+   <product productID="BG063U">
+      <department>Gear</department>
+      <description>Racing Helmet sm.</description>
+      <gender/>
+      <price>53.95</price>
+   </product>
+   <product productID="BG064U">
+      <department>Gear</department>
+      <description>Racing Helmet med.</description>
+      <gender/>
+      <price>53.95</price>
+   </product>
+   <product productID="BG065U">
+      <department>Gear</department>
+      <description>Racing Helmet lg.</description>
+      <gender/>
+      <price>53.95</price>
+   </product>
+   <product productID="BG066U">
+      <department>Gear</department>
+      <description>Racing Helmet XL</description>
+      <gender/>
+      <price>53.95</price>
+   </product>
+   <product productID="BG067U">
+      <department>Gear</department>
+      <description>Racing Helmet XXL</description>
+      <gender/>
+      <price>53.95</price>
+   </product>
+   <product productID="BC177U">
+      <department>Gear</department>
+      <description>Cycle Computer</description>
+      <gender/>
+      <price>75.95</price>
+   </product>
+   <product productID="BC178U">
+      <department>Gear</department>
+      <description>Cycle Computer w/ Cadence</description>
+      <gender/>
+      <price>112.95</price>
+   </product>
+   <product productID="BC195U">
+      <department>Gear</department>
+      <description>Cycle Computer w/ GPS</description>
+      <gender/>
+      <price>195.95</price>
+   </product>
+   <product productID="BR277U">
+      <department>Gear</department>
+      <description>Racing Computer</description>
+      <gender/>
+      <price>81.95</price>
+   </product>
+   <product productID="BR278U">
+      <department>Gear</department>
+      <description>Racing Computer w/ Cadence</description>
+      <gender/>
+      <price>115.95</price>
+   </product>
+   <product productID="BR295U">
+      <department>Gear</department>
+      <description>Racing Computer w/ GPS</description>
+      <gender/>
+      <price>212.95</price>
+   </product>
+   <product productID="BL107U">
+      <department>Gear</department>
+      <description>Light Kit High Beam</description>
+      <gender/>
+      <price>29.95</price>
+   </product>
+   <product productID="BL157U">
+      <department>Gear</department>
+      <description>Light Standard Beam</description>
+      <gender/>
+      <price>29.95</price>
+   </product>
+   <product productID="BL167U">
+      <department>Gear</department>
+      <description>Light Max Illumin Beam</description>
+      <gender/>
+      <price>29.95</price>
+   </product>
+   <product productID="BL177U">
+      <department>Gear</department>
+      <description>Light Generator Beam</description>
+      <gender/>
+      <price>29.95</price>
+   </product>
+   <product productID="BB107U">
+      <department>Gear</department>
+      <description>Rear Light Kit High Beam</description>
+      <gender/>
+      <price>24.95</price>
+   </product>
+   <product productID="BB157U">
+      <department>Gear</department>
+      <description>Rear Light Standard Beam</description>
+      <gender/>
+      <price>24.95</price>
+   </product>
+   <product productID="BB167U">
+      <department>Gear</department>
+      <description>Rear Light Max Flashy</description>
+      <gender/>
+      <price>22.5</price>
+   </product>
+   <product productID="BB177U">
+      <department>Gear</department>
+      <description>Rear Light Cyclical</description>
+      <gender/>
+      <price>24.5</price>
+   </product>
+   <product productID="BP011U">
+      <department>Gear</department>
+      <description>Bike Pump Micro</description>
+      <gender/>
+      <price>17.95</price>
+   </product>
+   <product productID="BP015U">
+      <department>Gear</department>
+      <description>Bike Pump Mini</description>
+      <gender/>
+      <price>15.95</price>
+   </product>
+   <product productID="BP073U">
+      <department>Gear</department>
+      <description>Bike Pump Floor</description>
+      <gender/>
+      <price>31.95</price>
+   </product>
+   <product productID="BC112U">
+      <department>Gear</department>
+      <description>CO2 Inflator Kit</description>
+      <gender/>
+      <price>15.95</price>
+   </product>
+   <product productID="BC115U">
+      <department>Gear</department>
+      <description>CO2 Cartridge Kit (16)</description>
+      <gender/>
+      <price>12.95</price>
+   </product>
+   <product productID="BB101U">
+      <department>Gear</department>
+      <description>Water Bottle Standard</description>
+      <gender/>
+      <price>5.95</price>
+   </product>
+   <product productID="BB117U">
+      <department>Gear</department>
+      <description>Water Bottle Insulated</description>
+      <gender/>
+      <price>8.95</price>
+   </product>
+   <product productID="BG612U">
+      <department>Gear</department>
+      <description>Hydration Pack reg.</description>
+      <gender/>
+      <price>49.95</price>
+   </product>
+   <product productID="BG618U">
+      <department>Gear</department>
+      <description>Hydration Pack med.</description>
+      <gender/>
+      <price>49.95</price>
+   </product>
+   <product productID="BG626U">
+      <department>Gear</department>
+      <description>Hydration Pack lg.</description>
+      <gender/>
+      <price>49.95</price>
+   </product>
+   <product productID="BG628U">
+      <department>Gear</department>
+      <description>Hydration Pack XL</description>
+      <gender/>
+      <price>49.95</price>
+   </product>
+   <product productID="BG630U">
+      <department>Gear</department>
+      <description>Hydration Pack XXL</description>
+      <gender/>
+      <price>49.95</price>
+   </product>
+   <product productID="TM057U">
+      <department>Parts</department>
+      <description>Tires Standard MB Size 1</description>
+      <gender/>
+      <price>29.95</price>
+   </product>
+   <product productID="TM058U">
+      <department>Parts</department>
+      <description>Tires Standard MB Size 2</description>
+      <gender/>
+      <price>31.95</price>
+   </product>
+   <product productID="TM059U">
+      <department>Parts</department>
+      <description>Tires Standard MB Size 3</description>
+      <gender/>
+      <price>35.95</price>
+   </product>
+   <product productID="TM060U">
+      <department>Parts</department>
+      <description>Tires Standard MB Size 4</description>
+      <gender/>
+      <price>35.95</price>
+   </product>
+   <product productID="TM061U">
+      <department>Parts</department>
+      <description>Tires Standard MB Size 5</description>
+      <gender/>
+      <price>39.95</price>
+   </product>
+   <product productID="TR175U">
+      <department>Parts</department>
+      <description>Tires Standard Road Size 1</description>
+      <gender/>
+      <price>29.95</price>
+   </product>
+   <product productID="TR176U">
+      <department>Parts</department>
+      <description>Tires Standard Road Size 2</description>
+      <gender/>
+      <price>31.95</price>
+   </product>
+   <product productID="TR177U">
+      <department>Parts</department>
+      <description>Tires Standard Road Size 3</description>
+      <gender/>
+      <price>35.95</price>
+   </product>
+   <product productID="TR178U">
+      <department>Parts</department>
+      <description>Tires Standard Road Size 4</description>
+      <gender/>
+      <price>35.95</price>
+   </product>
+   <product productID="TR179U">
+      <department>Parts</department>
+      <description>Tires Standard Road Size 5</description>
+      <gender/>
+      <price>39.95</price>
+   </product>
+   <product productID="TT005U">
+      <department>Parts</department>
+      <description>Inner Tube Standard Size 1</description>
+      <gender/>
+      <price>9.95</price>
+   </product>
+   <product productID="TT006U">
+      <department>Parts</department>
+      <description>Inner Tube Standard Size 2</description>
+      <gender/>
+      <price>9.95</price>
+   </product>
+   <product productID="TT007U">
+      <department>Parts</department>
+      <description>Inner Tube Standard Size 3</description>
+      <gender/>
+      <price>9.95</price>
+   </product>
+   <product productID="TT018U">
+      <department>Parts</department>
+      <description>Inner Tube Long Stem Size 1</description>
+      <gender/>
+      <price>12.95</price>
+   </product>
+   <product productID="TT019U">
+      <department>Parts</department>
+      <description>Inner Tube Long Stem Size 2</description>
+      <gender/>
+      <price>12.95</price>
+   </product>
+   <product productID="TT020U">
+      <department>Parts</department>
+      <description>Inner Tube Long Stem Size 3</description>
+      <gender/>
+      <price>12.95</price>
+   </product>
+   <product productID="CC018U">
+      <department>Parts</department>
+      <description>Tri Bars sm.</description>
+      <gender/>
+      <price>115.95</price>
+   </product>
+   <product productID="CC019U">
+      <department>Parts</department>
+      <description>Tri Bars med.</description>
+      <gender/>
+      <price>125.95</price>
+   </product>
+   <product productID="CC020U">
+      <department>Parts</department>
+      <description>Tri Bars lg.</description>
+      <gender/>
+      <price>141.95</price>
+   </product>
+   <product productID="BR207U">
+      <department>Parts</department>
+      <description>Rack and Bag Rear sm.</description>
+      <gender/>
+      <price>39.95</price>
+   </product>
+   <product productID="BR208U">
+      <department>Parts</department>
+      <description>Rack and Bag Rear med.</description>
+      <gender/>
+      <price>42.95</price>
+   </product>
+   <product productID="BR209U">
+      <department>Parts</department>
+      <description>Rack and Bag Rear lg.</description>
+      <gender/>
+      <price>49.95</price>
+   </product>
+   <product productID="BR214U">
+      <department>Parts</department>
+      <description>Rack and Bag Handlebar sm.</description>
+      <gender/>
+      <price>29.95</price>
+   </product>
+   <product productID="BR215U">
+      <department>Parts</department>
+      <description>Rack and Bag Handlebar med.</description>
+      <gender/>
+      <price>35.95</price>
+   </product>
+   <product productID="BR216U">
+      <department>Parts</department>
+      <description>Rack and Bag Handlebar lg.</description>
+      <gender/>
+      <price>42.95</price>
+   </product>
+   <product productID="CF107U">
+      <department>Nutrition</department>
+      <description>CC Energy Bars (6)</description>
+      <gender/>
+      <price>9.95</price>
+   </product>
+   <product productID="CF108U">
+      <department>Nutrition</department>
+      <description>CC Energy Bars (12)</description>
+      <gender/>
+      <price>14.95</price>
+   </product>
+   <product productID="CF117U">
+      <department>Nutrition</department>
+      <description>Frt Energy Bars (6)</description>
+      <gender/>
+      <price>9.95</price>
+   </product>
+   <product productID="CF118U">
+      <department>Nutrition</department>
+      <description>Frt Energy Bars (12)</description>
+      <gender/>
+      <price>14.95</price>
+   </product>
+   <product productID="CF127U">
+      <department>Nutrition</department>
+      <description>Oat Energy Bars (6)</description>
+      <gender/>
+      <price>9.95</price>
+   </product>
+   <product productID="CF128U">
+      <department>Nutrition</department>
+      <description>Oat Energy Bars (12)</description>
+      <gender/>
+      <price>14.95</price>
+   </product>
+   <product productID="CF137U">
+      <department>Nutrition</department>
+      <description>Veg Energy Bars (6)</description>
+      <gender/>
+      <price>9.95</price>
+   </product>
+   <product productID="CF138U">
+      <department>Nutrition</department>
+      <description>Veg Energy Bars (12)</description>
+      <gender/>
+      <price>14.95</price>
+   </product>
+   <product productID="CF124U">
+      <department>Nutrition</department>
+      <description>Energy Gels (6)</description>
+      <gender/>
+      <price>7.95</price>
+   </product>
+   <product productID="CF121U">
+      <department>Nutrition</department>
+      <description>Energy Gels (12)</description>
+      <gender/>
+      <price>14.95</price>
+   </product>
+   <product productID="CF125U">
+      <department>Nutrition</department>
+      <description>Energy Gels (18)</description>
+      <gender/>
+      <price>19.95</price>
+   </product>
+   <product productID="CF224U">
+      <department>Nutrition</department>
+      <description>Citrus Energy Gels (6)</description>
+      <gender/>
+      <price>7.95</price>
+   </product>
+   <product productID="CF221U">
+      <department>Nutrition</department>
+      <description>Citrus Energy Gels (12)</description>
+      <gender/>
+      <price>14.95</price>
+   </product>
+   <product productID="CF225U">
+      <department>Nutrition</department>
+      <description>Citrus Energy Gels (18)</description>
+      <gender/>
+      <price>17.95</price>
+   </product>
+   <product productID="CF407U">
+      <department>Nutrition</department>
+      <description>Grape Energy Drink Mix (Qt.)</description>
+      <gender/>
+      <price>6.95</price>
+   </product>
+   <product productID="CF417U">
+      <department>Nutrition</department>
+      <description>Cherry Energy Drink Mix (Qt.)</description>
+      <gender/>
+      <price>6.95</price>
+   </product>
+   <product productID="CF427U">
+      <department>Nutrition</department>
+      <description>Berry Energy Drink Mix (Qt.)</description>
+      <gender/>
+      <price>6.95</price>
+   </product>
+   <product productID="CF437U">
+      <department>Nutrition</department>
+      <description>Lemon Energy Drink Mix (Qt.)</description>
+      <gender/>
+      <price>6.95</price>
+   </product>
+   <product productID="CF144U">
+      <department>Nutrition</department>
+      <description>Energy Beans (8)</description>
+      <gender/>
+      <price>9.95</price>
+   </product>
+   <product productID="CF148U">
+      <department>Nutrition</department>
+      <description>Energy Beans (16)</description>
+      <gender/>
+      <price>15.95</price>
+   </product>
+   <product productID="CF184U">
+      <department>Nutrition</department>
+      <description>Citrus Energy Beans (8)</description>
+      <gender/>
+      <price>9.95</price>
+   </product>
+   <product productID="CF188U">
+      <department>Nutrition</department>
+      <description>Citrus Energy Beans (16)</description>
+      <gender/>
+      <price>15.95</price>
+   </product>
+</products>

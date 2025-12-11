@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stateStores state="CO" storeCount="3">
+   <store storeID="Store005" market="B" region="Mountain">
+      <street>1440 Segall Avenue</street>
+      <city>Boulder</city>
+      <state>CO</state>
+      <ZIP>80301</ZIP>
+      <phone>(303) 555-4381</phone>
+      <manager>Tiffany Hurst</manager>
+   </store>
+   <store storeID="Store006" market="A" region="Mountain">
+      <street>5181 Pike Drive</street>
+      <city>Colorado Springs</city>
+      <state>CO</state>
+      <ZIP>80904</ZIP>
+      <phone>(720) 555-6122</phone>
+      <manager>Sofia Gonzales</manager>
+   </store>
+   <store storeID="Store008" market="A" region="Mountain">
+      <street>1552 Pointe Street</street>
+      <city>Denver</city>
+      <state>CO</state>
+      <ZIP>80229</ZIP>
+      <phone>(303) 555-8371</phone>
+      <manager>Peter Higgins</manager>
+   </store>
+</stateStores>

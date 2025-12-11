@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+   <department name="Clothing">
+      <revenue>$56140.5</revenue>
+   </department>
+   <department name="Gear">
+      <revenue>$28640.3</revenue>
+   </department>
+   <department name="Parts">
+      <revenue>$18014.2</revenue>
+   </department>
+   <department name="Nutrition">
+      <revenue>$6523.55</revenue>
+   </department>
+</results>

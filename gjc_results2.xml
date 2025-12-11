@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+   <order orderID="Ord3013" orderDate="2017-07-25">
+      <revenue>$692.75</revenue>
+      <store storeID="Store001" market="C" region="Southwest">
+         <street>85 East Landing Avenue</street>
+         <city>Albuquerque</city>
+         <state>NM</state>
+         <ZIP>87121</ZIP>
+         <phone>(505) 555-6614</phone>
+         <manager>Wanda Holden</manager>
+      </store>
+      <customer custID="Cust071136">
+         <firstName>Tom</firstName>
+         <lastName>Caskey</lastName>
+         <street>987 7th Street</street>
+         <city>Albuquerque</city>
+         <state>NM</state>
+         <ZIP>87112</ZIP>
+      </customer>
+      <product productID="CL262M" qty="1" salesPrice="69.95"/>
+      <product productID="BC195U" qty="3" salesPrice="195.95"/>
+      <product productID="BH060U" qty="1" salesPrice="34.95"/>
+   </order>
+   <order orderID="Ord4553" orderDate="2017-07-28">
+      <revenue>$587.85</revenue>
+      <store storeID="Store017" market="B" region="Pacific">
+         <street>12 Bertrand Circle</street>
+         <city>San Jose</city>
+         <state>CA</state>
+         <ZIP>95112</ZIP>
+         <phone>(408) 555-8812</phone>
+         <manager>June Snowden</manager>
+      </store>
+      <customer custID="Cust158858">
+         <firstName>Adam</firstName>
+         <lastName>Crane</lastName>
+         <street>258 Waveland Avenue</street>
+         <city>San Jose</city>
+         <state>CA</state>
+         <ZIP>95130</ZIP>
+      </customer>
+      <product productID="BC195U" qty="3" salesPrice="195.95"/>
+   </order>
+   <order orderID="Ord4061" orderDate="2017-06-12">
+      <revenue>$576.85</revenue>
+      <store storeID="Store014" market="A" region="Pacific">
+         <street>7662 Faulk Street</street>
+         <city>Portland</city>
+         <state>OR</state>
+         <ZIP>97202</ZIP>
+         <phone>(503) 555-3371</phone>
+         <manager>Beverly Estes</manager>
+      </store>
+      <customer custID="Cust131573">
+         <firstName>Richard</firstName>
+         <lastName>Moses</lastName>
+         <street>190 East Hoey Avenue</street>
+         <city>Portland</city>
+         <state>OR</state>
+         <ZIP>97229</ZIP>
+      </customer>
+      <product productID="CL406M" qty="2" salesPrice="75.50"/>
+      <product productID="CC020U" qty="3" salesPrice="141.95"/>
+   </order>
+</results>

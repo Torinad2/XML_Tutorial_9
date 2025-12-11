@@ -14,12 +14,17 @@ xquery version "1.0";
 
  :)
 
-<stateStores state="CO"
-    storeCount="{
-        count(doc('gjc_stores.xml')//store[state='CO'])
-    }">
+declare variable $state as xs:string external;
+declare variable $storeList
+   := doc('gjc_stores.xml')//store[state=$state];
+
+<stateStores state="{$state}"
+   storeCount="{
+      count($storeList)
+   }">
 {
-    doc('gjc_stores.xml')//store[state='CO']
+   $storeList
 }
 </stateStores>
+
 

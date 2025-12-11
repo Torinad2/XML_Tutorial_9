@@ -14,3 +14,14 @@ xquery version "1.0";
 
  :)
 
+<revenue>{
+   concat("$",
+      round-half-to-even(
+         sum(
+            for $o in doc('gjc_orders.xml')//order
+            let $total := sum($o/product/(@qty * @salesPrice))
+            return $total
+         ),
+      2)
+   )
+}</revenue>

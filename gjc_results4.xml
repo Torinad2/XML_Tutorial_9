@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+   <store id="Store014">
+      <street>7662 Faulk Street</street>
+      <city>Portland</city>
+      <state>OR</state>
+      <revenue>$13036.75</revenue>
+   </store>
+   <store id="Store016">
+      <street>672 East Topeka Lane</street>
+      <city>San Antonio</city>
+      <state>TX</state>
+      <revenue>$10082.2</revenue>
+   </store>
+   <store id="Store018">
+      <street>610 Juliet Drive</street>
+      <city>Seattle</city>
+      <state>WA</state>
+      <revenue>$8270.15</revenue>
+   </store>
+   <store id="Store002">
+      <street>21 Mountain Drive</street>
+      <city>Beaverton</city>
+      <state>OR</state>
+      <revenue>$7908.65</revenue>
+   </store>
+   <store id="Store008">
+      <street>1552 Pointe Street</street>
+      <city>Denver</city>
+      <state>CO</state>
+      <revenue>$7576.75</revenue>
+   </store>
+   <store id="Store017">
+      <street>12 Bertrand Circle</street>
+      <city>San Jose</city>
+      <state>CA</state>
+      <revenue>$7503.15</revenue>
+   </store>
+   <store id="Store006">
+      <street>5181 Pike Drive</street>
+      <city>Colorado Springs</city>
+      <state>CO</state>
+      <revenue>$6929.15</revenue>
+   </store>
+   <store id="Store005">
+      <street>1440 Segall Avenue</street>
+      <city>Boulder</city>
+      <state>CO</state>
+      <revenue>$5914.1</revenue>
+   </store>
+   <store id="Store010">
+      <street>1488 Roosevelt Lane</street>
+      <city>Madison</city>
+      <state>WI</state>
+      <revenue>$5881.75</revenue>
+   </store>
+   <store id="Store009">
+      <street>9002 Greene Street</street>
+      <city>Fort Worth</city>
+      <state>TX</state>
+      <revenue>$5706.7</revenue>
+   </store>
+   <store id="Store015">
+      <street>5912 Deerfield Road</street>
+      <city>Salt Lake City</city>
+      <state>UT</state>
+      <revenue>$4993.8</revenue>
+   </store>
+   <store id="Store004">
+      <street>71 North Umberland Way</street>
+      <city>Bend</city>
+      <state>OR</state>
+      <revenue>$4519.9</revenue>
+   </store>
+   <store id="Store011">
+      <street>414 East Main Street</street>
+      <city>Omaha</city>
+      <state>NE</state>
+      <revenue>$4442.9</revenue>
+   </store>
+   <store id="Store007">
+      <street>10 North Crossing Way</street>
+      <city>Corpus Christi</city>
+      <state>TX</state>
+      <revenue>$3244.1</revenue>
+   </store>
+   <store id="Store001">
+      <street>85 East Landing Avenue</street>
+      <city>Albuquerque</city>
+      <state>NM</state>
+      <revenue>$2735.95</revenue>
+   </store>
+   <store id="Store012">
+      <street>89190 Lee Avenue</street>
+      <city>Phoenix</city>
+      <state>AZ</state>
+      <revenue>$2486.8</revenue>
+   </store>
+   <store id="Store003">
+      <street>1525 First Street SW</street>
+      <city>Bellevue</city>
+      <state>WA</state>
+      <revenue>$2333.5</revenue>
+   </store>
+   <store id="Store019">
+      <street>51 Walter Street</street>
+      <city>Spokane</city>
+      <state>WA</state>
+      <revenue>$2179.9</revenue>
+   </store>
+   <store id="Store013">
+      <street>5518 Springs Drive</street>
+      <city>Dubuque</city>
+      <state>IA</state>
+      <revenue>$2085.2</revenue>
+   </store>
+   <store id="Store020">
+      <street>642 Arrow Cross Lane</street>
+      <city>Tempe</city>
+      <state>AZ</state>
+      <revenue>$1487.15</revenue>
+   </store>
+</results>

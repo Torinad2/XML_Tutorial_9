@@ -1,1 +1,3 @@
 java -cp "C:\Saxon\saxon-he-12.9.jar;." net.sf.saxon.Query  -q:gjc_query1.xq  -o:gjc_results1.xml !indent=yes
+
+java -cp "C:\Saxon\saxon-he-12.9.jar;." net.sf.saxon.Query  -q:gjc_query1.xq  -o:gjc_results1.xml !indent=yes state=OR

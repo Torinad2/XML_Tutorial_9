@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+   <store storeID="Store001" location="Albuquerque, NM">
+      <department name="Clothing">
+         <revenue>$902.6</revenue>
+      </department>
+      <department name="Gear">
+         <revenue>$1154.2</revenue>
+      </department>
+      <department name="Parts">
+         <revenue>$467.2</revenue>
+      </department>
+      <department name="Nutrition">
+         <revenue>$211.95</revenue>
+      </department>
+   </store>
+   <store storeID="Store002" location="Beaverton, OR">
+      <department name="Clothing">
+         <revenue>$4381.85</revenue>
+      </department>
+      <department name="Gear">
+         <revenue>$1916.8</revenue>
+      </department>
+      <department name="Parts">
+         <revenue>$1092.35</revenue>
+      </department>
+      <department name="Nutrition">
+         <revenue>$517.65</revenue>
+      </department>
+   </store>
+   <store storeID="Store003" location="Bellevue, WA">
+      <department name="Clothing">
+         <revenue>$785</revenue>
+      </department>
+      <department name="Gear">
+         <revenue>$729.1</revenue>
+      </department>
+      <department name="Parts">
+         <revenue>$684.05</revenue>
+      </department>
+      <department name="Nutrition">
+         <revenue>$135.35</revenue>
+      </department>
+   </store>
+   <store storeID="Store004" location="Bend, OR">
+      <department name="Clothing">
+         <revenue>$2719.75</revenue>
+      </department>
+      <department name="Gear">
+         <revenue>$1176.8</revenue>
+      </department>
+      <department name="Parts">
+         <revenue>$482.05</revenue>
+      </department>
+      <department name="Nutrition">
+         <revenue>$141.3</revenue>
+      </department>
+   </store>
+   <store storeID="Store005" location="Boulder, CO">
+      <department name="Clothing">
+         <revenue>$2244.4</revenue>
+      </department>
+      <department name="Gear">
+         <revenue>$2420</revenue>
+      </department>
+      <department name="Parts">
+         <revenue>$752.85</revenue>
+      </department>
+      <department name="Nutrition">
+         <revenue>$496.85</revenue>
+      </department>
+   </store>
+   <store storeID="Store006" location="Colorado Springs, CO">
+      <department name="Clothing">
+         <revenue>$3194.8</revenue>
+      </department>
+      <department name="Gear">
+         <revenue>$1897.8</revenue>
+      </department>
+      <department name="Parts">
+         <revenue>$1340.85</revenue>
+      </department>
+      <department name="Nutrition">
+         <revenue>$495.7</revenue>
+      </department>
+   </store>
+   <store storeID="Store007" location="Corpus Christi, TX">
+      <department name="Clothing">
+         <revenue>$1330.4</revenue>
+      </department>
+      <department name="Gear">
+         <revenue>$713.55</revenue>
+      </department>
+      <department name="Parts">
+         <revenue>$1066.7</revenue>
+      </department>
+      <department name="Nutrition">
+         <revenue>$133.45</revenue>
+      </department>
+   </store>
+   <store storeID="Store008" location="Denver, CO">
+      <department name="Clothing">
+         <revenue>$3938.55</revenue>
+      </department>
+      <department name="Gear">
+         <revenue>$1689.5</revenue>
+      </department>
+      <department name="Parts">
+         <revenue>$1494.65</revenue>
+      </department>
+      <department name="Nutrition">
+         <revenue>$454.05</revenue>
+      </department>
+   </store>
+   <store storeID="Store009" location="Fort Worth, TX">
+      <department name="Clothing">
+         <revenue>$2814.85</revenue>
+      </department>
+      <department name="Gear">
+         <revenue>$1616.55</revenue>
+      </department>
+      <department name="Parts">
+         <revenue>$1037.4</revenue>
+      </department>
+      <department name="Nutrition">
+         <revenue>$237.9</revenue>
+      </department>
+   </store>
+   <store storeID="Store010" location="Madison, WI">
+      <department name="Clothing">
+         <revenue>$2835.2</revenue>
+      </department>
+      <department name="Gear">
+         <revenue>$1820.2</revenue>
+      </department>
+      <department name="Parts">
+         <revenue>$906.55</revenue>
+      </department>
+      <department name="Nutrition">
+         <revenue>$319.8</revenue>
+      </department>
+   </store>
+   <store storeID="Store011" location="Omaha, NE">
+      <department name="Clothing">
+         <revenue>$2795.65</revenue>
+      </department>
+      <department name="Gear">
+         <revenue>$1016.65</revenue>
+      </department>
+      <department name="Parts">
+         <revenue>$470.2</revenue>
+      </department>
+      <department name="Nutrition">
+         <revenue>$160.4</revenue>
+      </department>
+   </store>
+   <store storeID="Store012" location="Phoenix, AZ">
+      <department name="Clothing">
+         <revenue>$1277.85</revenue>
+      </department>
+      <department name="Gear">
+         <revenue>$645.35</revenue>
+      </department>
+      <department name="Parts">
+         <revenue>$440.25</revenue>
+      </department>
+      <department name="Nutrition">
+         <revenue>$123.35</revenue>
+      </department>
+   </store>
+   <store storeID="Store013" location="Dubuque, IA">
+      <department name="Clothing">
+         <revenue>$1286.8</revenue>
+      </department>
+      <department name="Gear">
+         <revenue>$622.1</revenue>
+      </department>
+      <department name="Parts">
+         <revenue>$87.75</revenue>
+      </department>
+      <department name="Nutrition">
+         <revenue>$88.55</revenue>
+      </department>
+   </store>
+   <store storeID="Store014" location="Portland, OR">
+      <department name="Clothing">
+         <revenue>$7721.55</revenue>
+      </department>
+      <department name="Gear">
+         <revenue>$2586.55</revenue>
+      </department>
+      <department name="Parts">
+         <revenue>$1902.1</revenue>
+      </department>
+      <department name="Nutrition">
+         <revenue>$826.55</revenue>
+      </department>
+   </store>
+   <store storeID="Store015" location="Salt Lake City, UT">
+      <department name="Clothing">
+         <revenue>$2545.75</revenue>
+      </department>
+      <department name="Gear">
+         <revenue>$1387.4</revenue>
+      </department>
+      <department name="Parts">
+         <revenue>$603.7</revenue>
+      </department>
+      <department name="Nutrition">
+         <revenue>$456.95</revenue>
+      </department>
+   </store>
+   <store storeID="Store016" location="San Antonio, TX">
+      <department name="Clothing">
+         <revenue>$5438.7</revenue>
+      </department>
+      <department name="Gear">
+         <revenue>$2361.25</revenue>
+      </department>
+      <department name="Parts">
+         <revenue>$1816.3</revenue>
+      </department>
+      <department name="Nutrition">
+         <revenue>$465.95</revenue>
+      </department>
+   </store>
+   <store storeID="Store017" location="San Jose, CA">
+      <department name="Clothing">
+         <revenue>$3683.1</revenue>
+      </department>
+      <department name="Gear">
+         <revenue>$2125.05</revenue>
+      </department>
+      <department name="Parts">
+         <revenue>$1156.2</revenue>
+      </department>
+      <department name="Nutrition">
+         <revenue>$538.8</revenue>
+      </department>
+   </store>
+   <store storeID="Store018" location="Seattle, WA">
+      <department name="Clothing">
+         <revenue>$4501.85</revenue>
+      </department>
+      <department name="Gear">
+         <revenue>$1686.1</revenue>
+      </department>
+      <department name="Parts">
+         <revenue>$1563.3</revenue>
+      </department>
+      <department name="Nutrition">
+         <revenue>$518.9</revenue>
+      </department>
+   </store>
+   <store storeID="Store019" location="Spokane, WA">
+      <department name="Clothing">
+         <revenue>$1158.85</revenue>
+      </department>
+      <department name="Gear">
+         <revenue>$464.45</revenue>
+      </department>
+      <department name="Parts">
+         <revenue>$430.1</revenue>
+      </department>
+      <department name="Nutrition">
+         <revenue>$126.5</revenue>
+      </department>
+   </store>
+   <store storeID="Store020" location="Tempe, AZ">
+      <department name="Clothing">
+         <revenue>$583</revenue>
+      </department>
+      <department name="Gear">
+         <revenue>$610.9</revenue>
+      </department>
+      <department name="Parts">
+         <revenue>$219.65</revenue>
+      </department>
+      <department name="Nutrition">
+         <revenue>$73.6</revenue>
+      </department>
+   </store>
+</results>
